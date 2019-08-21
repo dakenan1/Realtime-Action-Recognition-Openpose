@@ -1,5 +1,5 @@
 
-Multi-person Real-time Action Recognition Based-on Human Skeleton
+A Tensorflow implementation of  multi-person action recognition in nine acts
 =========================================================
 
 This is my revised implementation of action recognition using Openpose , thanks for felixchenfy's(owner of the original version) contribution!
